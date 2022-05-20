@@ -1,0 +1,2 @@
+Este projeto tem como finalidade analisar a cotação atual do dólar, euro e do ouro, e calcular o preço de compra e o preço de venda de tal produto em relação ao valor 
+atual dessas moedas, e depois alterar os valores da base de dados, fazendo tudo isso de forma automática.
