@@ -40,7 +40,7 @@ print(cotacao_ouro)
 # passo 6: importar e atualizar a base de dados
 import pandas as pd
 
-tabela = pd.read_excel("Produtos.xlsx")
+tabela = pd.read_excel(r"BaseDeDados\Produtos.xlsx")
 print(tabela)
 
 # atualizar a cotação de acordo com a moeda correspondente
